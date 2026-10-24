@@ -12,7 +12,7 @@ My day job is Creative & Brand Strategist and Quality Control, so I care about h
 
 ## What I work with
 
-HTML, CSS (Tailwind), JavaScript, Playwright, accessibility, motion design, AI-assisted visuals (Generative AI)
+HTML, CSS (Tailwind), Node.js, JavaScript (TypeScript),  Playwright, React, accessibility, motion design, AI-assisted visuals (Generative AI)
 
 ## Get in touch
 
