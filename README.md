@@ -2,7 +2,7 @@
 
 **Web & UI designer** in Dallas, TX. I design and build fast, animated, accessible websites, with a focus on hardware and deep-tech brands.
 
-My day job is Creative & Brand Strategist and Quality Control, so I care about how things actually work, not only how they look.
+My day job is Creative & Brand Strategist and Computer Hardware testing, so I care about how things actually work, not only how they look.
 
 ## Featured project
 
